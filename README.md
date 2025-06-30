@@ -1,3 +1,3 @@
 # git-practice
 renew
-fast foward!!
+fast foward!! merge
